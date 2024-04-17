@@ -1,0 +1,111 @@
+
+body{
+    background-color: white;
+    margin-left: 200px;
+}
+.principal{
+    width: 1280px;
+    font-family: Raleway;
+    background-color: #000000;
+    color: #FFFFFF;  
+}
+header{
+    display: flex;
+    justify-content: center;
+    height: 73px;
+    opacity: 1;
+}
+h1 { 
+    font-size: 50px; 
+    font-weight: normal;
+    line-height: 7px; 
+    }
+.section2{
+    height: 727px;
+}  
+.section3{
+    height: 202px;
+    margin: 45px 150px 66px 150px;
+    font-weight: lighter;
+    font-size: 16px;
+}
+.tabla{
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 237px;
+    padding: 0px;
+    margin: 0px;
+}
+.iguana2{
+    width: 399px;
+    height: 237px;
+}
+.parrafo{
+    width: 475px;
+}
+.section4{
+    height: 348px;
+    background-color: #1E1A13;
+}
+.section41{
+    display: flex;
+    justify-content: center;
+    font-weight: normal;
+    vertical-align: baseline;
+    font-size: 40px;
+    height: 122px;    
+}
+.section42{
+    margin: 72px 324px 0px 326px;
+}
+.iconos{
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.section43{
+    font-weight: lighter;
+    margin: 20px 243px 74px 301px;
+}
+.nombreiconos{
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px;
+}
+.section5{
+    height: 202px;
+    margin: 73px 150px 73px 150px;
+}
+.galeria{
+    display: flex ;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.imggal{
+    width: 316px;
+    height: 202px;
+}
+.section42{
+    font-family: awasome;
+}
+footer{
+    display: flex;
+    justify-content: center; 
+    height: 102px;
+    font-size: 20px;
+    background-color: #1E1A13;
+    font-weight: lighter;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
